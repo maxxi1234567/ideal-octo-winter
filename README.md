@@ -1,2 +1,2 @@
 # ideal-octo-winter
-A depository for me to play around with which might contain random dead-loop software LOL. 
+A depository for me to play around with. Might contain random dead-loop software LOL. 
